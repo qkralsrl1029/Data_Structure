@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Data Structure_Singular Linked List\Data Structure_Singular Linked List\bin\Debug\Data Structure_Singular Linked List.exe.config
+C:\Users\pc\source\repos\Data Structure_Singular Linked List\Data Structure_Singular Linked List\bin\Debug\Data Structure_Singular Linked List.exe
+C:\Users\pc\source\repos\Data Structure_Singular Linked List\Data Structure_Singular Linked List\bin\Debug\Data Structure_Singular Linked List.pdb
+C:\Users\pc\source\repos\Data Structure_Singular Linked List\Data Structure_Singular Linked List\obj\Debug\Data Structure_Singular Linked List.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Data Structure_Singular Linked List\Data Structure_Singular Linked List\obj\Debug\Data Structure_Singular Linked List.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Data Structure_Singular Linked List\Data Structure_Singular Linked List\obj\Debug\Data Structure_Singular Linked List.exe
+C:\Users\pc\source\repos\Data Structure_Singular Linked List\Data Structure_Singular Linked List\obj\Debug\Data Structure_Singular Linked List.pdb
