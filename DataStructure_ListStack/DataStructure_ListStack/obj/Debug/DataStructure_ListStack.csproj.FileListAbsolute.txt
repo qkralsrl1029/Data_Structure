@@ -1,0 +1,7 @@
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_ListStack\DataStructure_ListStack\bin\Debug\DataStructure_ListStack.exe.config
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_ListStack\DataStructure_ListStack\bin\Debug\DataStructure_ListStack.exe
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_ListStack\DataStructure_ListStack\bin\Debug\DataStructure_ListStack.pdb
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_ListStack\DataStructure_ListStack\obj\Debug\DataStructure_ListStack.csprojAssemblyReference.cache
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_ListStack\DataStructure_ListStack\obj\Debug\DataStructure_ListStack.csproj.CoreCompileInputs.cache
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_ListStack\DataStructure_ListStack\obj\Debug\DataStructure_ListStack.exe
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_ListStack\DataStructure_ListStack\obj\Debug\DataStructure_ListStack.pdb

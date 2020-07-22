@@ -16,6 +16,14 @@ namespace DataStructure_ArrayStack
         
         int currentIndex = 0;
 
+        public _stack CreateNode(int _data)
+        {
+            _stack stack = new _stack();
+            stack.data = _data;
+
+            return stack;
+        }
+
         public void Push(ref _stack[] arrStack,ref _stack data)
         {
             if(currentIndex>9)
@@ -39,6 +47,14 @@ namespace DataStructure_ArrayStack
             _stack temp = arrStack[currentIndex];
             return temp;
         }
+
+        public void ShowStack(ref _stack[] stacks)
+        {
+            for (int i = 0; i < currentIndex; i++)
+            {
+                Console.WriteLine(stacks[i].data);
+            }
+        }
     }
 
     class Program
@@ -48,18 +64,17 @@ namespace DataStructure_ArrayStack
             ArrayStack arrayStack = new ArrayStack();
             _stack[] Stack = new _stack[10];
 
-            _stack stack1 = new _stack();
-            stack1.data = 10;
-            _stack stack2 = new _stack();
-            stack2.data = 20;
-            _stack stack3 = new _stack();
-            stack3.data = 30;
+            _stack stack1 = arrayStack.CreateNode(10);
+            _stack stack2 = arrayStack.CreateNode(20);
+            _stack stack3 = arrayStack.CreateNode(30);
 
             arrayStack.Push(ref Stack, ref stack1);
             arrayStack.Push(ref Stack, ref stack2);
             arrayStack.Push(ref Stack, ref stack3);
 
+            arrayStack.Pop(ref Stack);
 
+            arrayStack.ShowStack(ref Stack);
         }
     }
 }

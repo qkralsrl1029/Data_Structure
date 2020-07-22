@@ -1,0 +1,7 @@
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_ArrayStack\DataStructure_ArrayStack\bin\Debug\DataStructure_ArrayStack.exe.config
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_ArrayStack\DataStructure_ArrayStack\bin\Debug\DataStructure_ArrayStack.exe
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_ArrayStack\DataStructure_ArrayStack\bin\Debug\DataStructure_ArrayStack.pdb
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_ArrayStack\DataStructure_ArrayStack\obj\Debug\DataStructure_ArrayStack.csprojAssemblyReference.cache
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_ArrayStack\DataStructure_ArrayStack\obj\Debug\DataStructure_ArrayStack.csproj.CoreCompileInputs.cache
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_ArrayStack\DataStructure_ArrayStack\obj\Debug\DataStructure_ArrayStack.exe
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_ArrayStack\DataStructure_ArrayStack\obj\Debug\DataStructure_ArrayStack.pdb
