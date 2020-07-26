@@ -1,0 +1,7 @@
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_StackApplication\DataStructure_StackApplication\bin\Debug\DataStructure_StackApplication.exe.config
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_StackApplication\DataStructure_StackApplication\bin\Debug\DataStructure_StackApplication.exe
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_StackApplication\DataStructure_StackApplication\bin\Debug\DataStructure_StackApplication.pdb
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_StackApplication\DataStructure_StackApplication\obj\Debug\DataStructure_StackApplication.csprojAssemblyReference.cache
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_StackApplication\DataStructure_StackApplication\obj\Debug\DataStructure_StackApplication.csproj.CoreCompileInputs.cache
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_StackApplication\DataStructure_StackApplication\obj\Debug\DataStructure_StackApplication.exe
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_StackApplication\DataStructure_StackApplication\obj\Debug\DataStructure_StackApplication.pdb

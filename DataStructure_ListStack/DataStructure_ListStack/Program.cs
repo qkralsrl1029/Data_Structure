@@ -202,8 +202,11 @@ namespace DataStructure_ListStack
 
             //linkedList.ShowStack(ref top);
 
-            string equation1 = "(1+2+3+4)+{(1+2)+3+4}";
-            Console.WriteLine(linkedList.EquationCheck(equation1,ref linkedList,ref top));
+            //string equation1 = "((1+2+3+4)+{(1+2)+3+4}";
+            //Console.WriteLine(linkedList.EquationCheck(equation1,ref linkedList,ref top));
+            int a = 0;
+            while (a < 10)
+                Console.WriteLine(a++);
            
         }
     }
