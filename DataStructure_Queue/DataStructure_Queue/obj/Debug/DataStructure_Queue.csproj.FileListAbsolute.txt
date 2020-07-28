@@ -1,0 +1,7 @@
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_Queue\DataStructure_Queue\bin\Debug\DataStructure_Queue.exe.config
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_Queue\DataStructure_Queue\bin\Debug\DataStructure_Queue.exe
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_Queue\DataStructure_Queue\bin\Debug\DataStructure_Queue.pdb
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_Queue\DataStructure_Queue\obj\Debug\DataStructure_Queue.csprojAssemblyReference.cache
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_Queue\DataStructure_Queue\obj\Debug\DataStructure_Queue.csproj.CoreCompileInputs.cache
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_Queue\DataStructure_Queue\obj\Debug\DataStructure_Queue.exe
+C:\Users\pc\콘솔앱프로젝트\repos\자료구조\DataStructure_Queue\DataStructure_Queue\obj\Debug\DataStructure_Queue.pdb
